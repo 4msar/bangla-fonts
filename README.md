@@ -493,3 +493,7 @@ Core `ttf` Fonts have been developed by various developers, known developers hav
 Project HomePage: [https://fonts.msar.me/](https://fonts.msar.me/)
 
 Issue Tracker: https://github.com/msar/bangla-web-fonts/issues
+
+# Credits 
+
+This project is inspired by the @maateen bhai's fonts project [https://fonts.maateen.me/](https://fonts.maateen.me/) 
