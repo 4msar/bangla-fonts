@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Bangla Web Fonts",
+        "description": "Bangla web fonts cdn",
+        "author": [
+            "Saiful Alam",
+            "Maksudur Rahman Maateen"
+        ],
+        "color": "red",
+        "path": "fonts"
+    }
+]
