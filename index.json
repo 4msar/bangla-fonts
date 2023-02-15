@@ -8,5 +8,15 @@
         ],
         "color": "red",
         "path": "fonts"
+    },
+    {
+        "name": "Tiempos Headline",
+        "description": "Tiempos Headline web fonts cdn",
+        "author": [
+            "Saiful Alam",
+            ""
+        ],
+        "color": "red",
+        "path": "fonts/Tiempos"
     }
 ]
